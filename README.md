@@ -1,17 +1,4 @@
 MOBILE PROGRAMMING
-Instructor
-Office :
-Office Hours: : Tuesday 09:30-11:30
-CV (link) : https://www.ipz.uzh.ch/de/institut/mitarbeitende/akadgaeste/mcoskun.html
-Course Information
-Period : Spring
-Time : 09:30 - 13:20 (Wednesday)
-Course Credit / ECTS :
-Classroom : MSTeams
-Mode of Delivery: : Synchronous/Online
-Course type : Must
-Course ECTS Page Link :
-Prerequisite (If Available)
 ------------
 Course Objectives
 The purpose of this course is to teach Mobile Development with Flutter from beginners level to advanced.
